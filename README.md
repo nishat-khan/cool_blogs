@@ -6,8 +6,7 @@ This is a repo to refer cool blogs/websites written for the Data Science communi
 2. If you wanna be cool at terminal commands:
    https://missing.csail.mit.edu/2020/course-shell/
 
-3. Simplest most efficient editor for programming
-   https://careerkarma.com/blog/atom-vs-sublime/
+3. "If you had to pick one technical problem that was the most difficult for you, explain what it is and how did you approach solving it?"
 
 4. How much sample size is good enough for Hypothesis testing: https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm
 
