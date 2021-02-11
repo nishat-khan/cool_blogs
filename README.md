@@ -13,3 +13,5 @@ This is a repo to refer cool blogs/websites written for the Data Science communi
 5. Inspiration for cool datascience projects documentation: https://towardsdatascience.com/how-to-build-an-effective-data-science-portfolio-56d19b885aa8
 
 6. Recent Research papers highlighted: https://www.topbots.com/
+
+7. Cool python environement manager setup :https://opensource.com/article/19/6/python-virtual-environments-mac
