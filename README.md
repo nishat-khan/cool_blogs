@@ -15,3 +15,6 @@ Cool python environement manager setup :https://opensource.com/article/19/6/pyth
 
 If you wanna be cool at terminal commands:
    https://missing.csail.mit.edu/2020/course-shell/
+
+To visualize your code
+http://www.pythontutor.com/visualize.html#mode=display
